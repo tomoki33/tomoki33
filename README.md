@@ -1,5 +1,5 @@
 # Full Stuck Developer in Japan👋
-### 27 years old 
+### 28 years old 
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoki33&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomoki33&theme=aura_dark)
@@ -8,7 +8,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,nodejs,react,ts,js,vue,aws,mysql,docker,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,nodejs,react,ts,js,vue,aws,mysql,docker,fastapi,django,nodejs,azure,mongo,nextjs,figma&theme=dark)](https://skillicons.dev)
 
   
 
