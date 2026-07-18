@@ -1,5 +1,4 @@
-# Full Stuck Developer in Japan👋
-### 29 years old 
+# SoftWare Developer in Japan👋
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoki33&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomoki33&theme=aura_dark)
